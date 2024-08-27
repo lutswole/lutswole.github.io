@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lutswole.github.io/sitemap.html.gz
+Sitemap: https://lutswole.github.io/app/sitemap.html.gz
+Sitemap: https://lutswole.github.io/assets/sitemap.html.gz
+Sitemap: https://lutswole.github.io/css/sitemap.html.gz
+Sitemap: https://lutswole.github.io/includes/sitemap.html.gz
+Sitemap: https://lutswole.github.io/item/sitemap.html.gz
+Sitemap: https://lutswole.github.io/src/sitemap.html.gz
